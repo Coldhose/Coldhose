@@ -1,5 +1,5 @@
 #include<stdio.h>
-int acum=0,nota_M=0,nota_m=30,cant_a=0,cant_r=0,i;
+int acum=0,cant_a=0,cant_r=0,i,nota_M=0,nota_m=30;
 float prom,notas[5];
 main()
 {	
@@ -16,6 +16,7 @@ main()
 		
 		acum+=notas[i];
 		
+		if (notas[i]>nota_M)
 			nota_M=notas[i];
 			
 		if (notas[i]<nota_m)
@@ -31,10 +32,10 @@ main()
 	//Salida de datos
 	printf("\nPulse cualquier tecla para continuar: \n");getch();
 	printf("\nEl promedio es: %.2f",prom);		
-	printf("\nCantidad de alumnos aprovados: %i",cant_a);
-	printf("\nCantidad de alumnos reprovados: %i",cant_r);
+	printf("\nCantidad de alumnos aprobados: %i",cant_a);
+	printf("\nCantidad de alumnos reprobados: %i",cant_r);
 	printf("\nLa nota nayor es: %i",nota_M);
 	printf("\nLa nota menor es: %i",nota_m);
-	printf("\n\nFelicidades a todos los alumnos aprovados.\nA los que no aprovaron a reparar por flojos!\n");
+	printf("\n\nFelicidades a todos los alumnos aprobados.\nA los que no aprobaron a reparar por flojos!\n");
 //Made by HPL	
 }
