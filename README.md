@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Coldhose 
+- 👋 Hi, José Urbina
 - 👀 I’m interested in  el desarrollo de software, programacion y redes
 - 🌱 I’m currently learning  lenguaje C
 - 💞️ I’m looking to collaborate on: Nada por los momentos
