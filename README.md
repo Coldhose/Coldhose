@@ -1,9 +1,9 @@
 
-- 👋 Hi, José Urbina
-- 👀 I’m interested in  el desarrollo de software, programacion y redes
-- 🌱 I’m currently learning  lenguaje C
-- 💞️ I’m looking to collaborate on: Nada por los momentos
-- 📫 How to reach me? Correo electrónico: joanurro10@gmail.com
+- 👋 Hola, soy José Urbina.
+- 👀 Estoy interesado en el desarrollo de software y redes.
+- 🌱 Estoy aprendiendo Python.
+- 📫 ¿Cómo contactarme? Correo electrónico: joanurro10@gmail.com
+- Estudio Ingeniería Telemática.
 -     Estoy en camino de ser un  buen ingeniero y desarrollador de software
 <!---
 Coldhose/Coldhose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
